@@ -19,4 +19,4 @@ I’ve worked on enterprise-scale systems at Juniper Networks and TCS, and recen
 ### Tech stack
 Python • SQL • FastAPI • PostgreSQL • Docker • CI/CD • Cloud Platforms (AWS/GCP)
 
-📫 Connect with me on LinkedIn: <your LinkedIn URL>
+📫 Connect with me on LinkedIn: <https://www.linkedin.com/in/akhil-britto/>
