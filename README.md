@@ -1,6 +1,6 @@
 ## Hi, I’m Akhil 👋
 
-Backend Software Engineer / Data Engineer with 4+ years of industry experience building production backend systems, APIs, and data pipelines.
+I'm a Backend Software Engineer with 4+ years of industry experience building production backend systems, APIs, and data pipelines.
 
 I’ve worked on enterprise-scale systems at Juniper Networks and TCS, and recently completed an MSc in Data Science to deepen my understanding of data-intensive platforms and cloud-based data processing.
 
